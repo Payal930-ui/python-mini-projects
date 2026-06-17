@@ -72,12 +72,3 @@ A simple task manager that allows users to add, view, update, and remove tasks e
 
 ---
 
-## 👩‍💻 Author
-
-**Payal Kumari**
-BCA Student | Aspiring Data Analyst & Data Engineer
-
-📧 Connect with me:
-
-* LinkedIn: [Your LinkedIn Profile]
-* GitHub: [Your GitHub Profile]
